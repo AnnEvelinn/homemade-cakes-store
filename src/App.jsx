@@ -1,11 +1,13 @@
 import "./App.css";
+import Navbar from "./components/Navbar";
 
 function App() {
+
   return (
-    <div>
-      <h1>Homemade Cakes Store</h1>
-    </div>
+    <>
+      <Navbar />
+    </>
   );
 }
 
-export default App;
+export default App;   
