@@ -1,5 +1,5 @@
 
-# Homemade-cakes-store
+# Homemade-cakes-store --> TeesuBakes
 A React-based homemade cake preorder website.
 
 
